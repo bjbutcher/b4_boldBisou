@@ -4,4 +4,9 @@
   <ModName>b4_boldBisou</ModName>
   <Author>bafflinbill</Author>
   <Version>1.0.0</Version>
+  <OpenProjectFiles>base\b4\boldbisou\materials\lips__01_metallicblue_02.mi</OpenProjectFiles>
+  <OpenProjectFiles>base\b4\boldbisou\materials\lips__01_metallicblue_03.mi</OpenProjectFiles>
+  <OpenProjectFiles>base\b4\boldbisou\materials\lips_color__03_metallicblue.mi</OpenProjectFiles>
+  <OpenProjectFiles>base\b4\boldbisou\materials\lips_color__03_metallicblue_03.mi</OpenProjectFiles>
+  <OpenProjectFiles>base\b4\boldbisou\materials\lips_color__03_metallicblue_02.mi</OpenProjectFiles>
 </CP77Mod>

@@ -1,0 +1,26 @@
+OptionsIcons.modderinitials_modname_$(color):
+  $type: gamedataUIIcon_Record
+  $instances:
+    - { color: bleached_aqua }
+    - { color: cabana_blue }
+    - { color: dusty_turquoise }
+    - { color: ice_water }
+    - { color: mauve_mist }
+    - { color: pfpink }
+    - { color: powder_puff }
+    - { color: rose_smoke }
+    - { color: salt_air }
+    - { color: veiled_vista }
+    - { color: violet_ice }
+    - { color: white_down }
+    - { color: winter_white }
+    - { color: barely_blue }
+    - { color: lacy_lilac }
+    - { color: seashell_pink }
+    - { color: frosted_window }
+    - { color: pink_tulle }
+    - { color: barely_pink }
+    - { color: marshmallow_creme }
+    - { color: ancient_water }
+  atlasPartName: modderinitials_modname_$(color)
+  atlasResourcePath: moddername\modname_ccxl\ui\modderinitials_hairprofiles_ccxl_thumbnails_atlas.inkatlas
